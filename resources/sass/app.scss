@@ -1,0 +1,26 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+$fa-font-path:"../webfonts";
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
+@import "@fortawesome/fontawesome-free/scss/brands.scss";
+@import "@fortawesome/fontawesome-free/scss/regular.scss";
+
+// @import "@fontawesome/scss/solid.scss";
+// @import "@fontawesome/scss/brands.scss";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index.scss';
+@import '~admin-lte/dist/css/adminlte.css';
+//Check box
+@import '~pretty-checkbox/src/pretty-checkbox.scss';
+
+
+.router-link-exact-active{
+    background-color: rgb(167, 25, 132)
+}
