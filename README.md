@@ -11,3 +11,5 @@ How to use?
 9. Run command 'php artisan db:seed'.
 10.Run command 'php artisan serve'.
 11.Run comomand 'npm run watch' for editing and compilation Vue components.
+
+Good luck
